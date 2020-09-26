@@ -1,4 +1,5 @@
 # Load RSpec and Capybara
+it is configuring RSpec and our tests to be able to use all the wonderful methods and interactions Capybara provides.
 require 'rspec'
 require 'capybara/rspec'
 require 'capybara/dsl'
